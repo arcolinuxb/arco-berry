@@ -934,7 +934,7 @@ xfce4-taskmanager
 #polybar
 polybar
 
-#desktop specific herbstluftwm
+#desktop specific berry
 berry-git
 sxhkd
 autorandr
